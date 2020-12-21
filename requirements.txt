@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+chromedriver==2.24.1
+selenium==3.141.0
+python-dotenv==0.15.0
